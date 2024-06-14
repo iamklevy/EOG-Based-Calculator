@@ -5,7 +5,7 @@ This project involves developing a human-computer interface (HCI) based on elect
 ![Screenshot (179)](https://github.com/iamklevy/EOG-Based-Calculator/assets/94145850/e1bab884-c2c2-44e1-ad85-3cb5e2f56f96)
 
 #### 1. Data Acquisition
-in this branch. This dataset is turkish and it's probably the only open-source one available for EOG signals, it includes raw EOG signals captured during various eye movements corresponding to different calculator operations (digits 0-9, operations +, -, x, /, and control commands like C for clear and E for exist).
+The dataset that is included in this branch is turkish and it's probably the only open-source one available for EOG signals, it includes raw EOG signals captured during various eye movements corresponding to different calculator operations (digits 0-9, operations +, -, x, /, and control commands like C for clear and E for exist).
 
 #### 2. EOG Preprocessing
 EOG data often contains noise and artifacts that need to be filtered out. Preprocessing steps include:
