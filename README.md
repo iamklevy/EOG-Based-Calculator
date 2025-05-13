@@ -7,7 +7,7 @@ Note: simulation app on the master branch
 ![Screenshot (179)](https://github.com/iamklevy/EOG-Based-Calculator/assets/94145850/e1bab884-c2c2-44e1-ad85-3cb5e2f56f96)
 
 ### Runtime Demo 
-# red for hover, pink for selection
+red for hover, pink for selection
 <p>
     <video src="https://github.com/user-attachments/assets/7cc8acc0-c15c-4d99-83ae-1fa566678061" />
       *Your display does not support the video tag. You can open a browser to see the video.*
