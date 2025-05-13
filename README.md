@@ -9,12 +9,12 @@ Note: simulation app on the master branch
 ### Runtime Demo 
 # red for hover, pink for selection
 <p>
-    <video src="https://github.com/user-attachments/assets/d7559b27-54ab-4a20-90b2-ae11b8cc0299" />
-      *Your display does not support the video tag. Open a browser to see the video.*
+    <video src="https://github.com/user-attachments/assets/7cc8acc0-c15c-4d99-83ae-1fa566678061" />
+      *Your display does not support the video tag. You can open a browser to see the video.*
   </p>
       
 #### 1. Data Acquisition
-The dataset that is included in this branch is turkish and it's probably the only open-source one available for EOG signals, it includes raw EOG signals captured during various eye movements corresponding to different calculator operations (digits 0-9, operations +, -, x, /, and control commands like C for clear and E for exist).
+The dataset that is included in this branch is turkish. It's probably the only open-source one available for EOG signals, it includes raw EOG signals captured during various eye movements corresponding to different calculator operations (digits 0-9, operations +, -, x, /, and control commands like C for clear and E for exist).
 
 #### 2. EOG Preprocessing
 EOG data often contains noise and artifacts that need to be filtered out. Preprocessing steps include:
